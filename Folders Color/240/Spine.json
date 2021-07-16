@@ -1,0 +1,20 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"40","bone":"root","attachment":"40"},
+	{"name":"50","bone":"root","attachment":"50"},
+	{"name":"60","bone":"root","attachment":"60"},
+	{"name":"70","bone":"root","attachment":"70"},
+	{"name":"80","bone":"root","attachment":"80"}
+],
+"skins":{
+	"default":{
+		"40":{"40":{"x":128,"y":128,"width":256,"height":256}},
+		"50":{"50":{"x":428,"y":128,"width":256,"height":256}},
+		"60":{"60":{"x":728,"y":128,"width":256,"height":256}},
+		"70":{"70":{"x":1028,"y":128,"width":256,"height":256}},
+		"80":{"80":{"x":1328,"y":128,"width":256,"height":256}}
+	}
+},
+"animations":{"animation":{}}
+}
